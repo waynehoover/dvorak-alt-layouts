@@ -18,8 +18,8 @@ I have been using the DvorakIU swap keyboard layout since 2009.
 
 It took me about a week and a half of using this new layout until I was up to my old speed on the official Dvorak layout. In the end I found it easier on the hands than the normal Dvorak layout.
 
-## DvoarkIULB
-After nearly 15 years on the Dvorak layout, I have decided to make a new layout that switches the L and B keys. The motivation for this is to reduce strain on the right pinky finger. This was done after analyzing the workman layout.
+## DvoarkIULM
+After nearly 15 years on the Dvorak layout, I have decided to make a new layout that switches the L and M keys. The motivation for this is to reduce strain on the right pinky finger. This was done after analyzing the workman layout and key frequency charts.
 
 ## Credits
 The mac file was created with [Ukelele V3](https://scripts.sil.org/ukelele) and should work on all versions of MacOS. The PC files where created a long time ago and I don't know if they still work, PRs welcome.
