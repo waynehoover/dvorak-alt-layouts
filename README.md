@@ -1,4 +1,4 @@
-# Dovark ALT Layouts
+# Dvorak ALT Layouts
 Two alternate Dvorak keyboard layouts
 
 One with the only the IU keys swapped.
