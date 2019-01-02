@@ -6,7 +6,7 @@ The other with the IU and LM keys swapped
 
 ## Installation
 Mac:
-Dowlnoad the .DMG file of the layout you want and move the .keylayout file to the alias inside the folder i.e. `/Library/Keyboard Layouts/`.
+Dowlnoad the .DMG file of the layout you want and move the .bundle file to the alias inside the folder i.e. `/Library/Keyboard Layouts/`.
 
 PC:
 Download the PC version of the file (Sorry there is no IU & LM version for PC) extract and open setup.exe. Then select the keyboard layout in the input sources.
