@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--&#x0022;DvorakIU Switch&#x0022; -->
-<!--Last edited by Ukelele version 3.3.0.249 on 2019-03-02 at 16:51 (HST)-->
-<keyboard group="126" id="-29948" name="DvorakIULM" maxout="1">
+<!--Last edited by Ukelele version 3.3.0.249 on 2019-03-05 at 18:29 (HST)-->
+<keyboard group="126" id="-14879" name="DvorakIULM" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
     </layouts>
@@ -400,7 +400,7 @@
             <key code="0" output="å"/>
             <key code="1" output="ø"/>
             <key code="2" action="´"/>
-            <key code="3" output="/"/>
+            <key code="3" action="s3"/>
             <key code="4" output="∂"/>
             <key code="5" action="¨"/>
             <key code="6" output="…"/>
@@ -411,7 +411,7 @@
             <key code="11" output="≈"/>
             <key code="12" output="æ"/>
             <key code="13" output="≤"/>
-            <key code="14" output="?"/>
+            <key code="14" output="≥"/>
             <key code="15" output="π"/>
             <key code="16" output="ƒ"/>
             <key code="17" output="¥"/>
@@ -1077,6 +1077,9 @@
             <when state="s3" output="ô"/>
             <when state="s4" output="õ"/>
             <when state="s5" output="ò"/>
+        </action>
+        <action id="s3">
+            <when state="none" next="s3"/>
         </action>
         <action id="u">
             <when state="none" output="u"/>
