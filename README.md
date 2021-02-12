@@ -32,7 +32,7 @@ I have also included my karabiner config which you can install by all files in `
 The config swaps capslock with delete. The complex_modification config files make it so that when the option key is held the right hand home row becomes arrows and the left hand has some common punctuation. Details can be found for each rule when you install the file.
 
 ## ErgoDoxEZ layout
-I currently type on an ErgoDoxEZ and really enjoy it. The keyboard layout I use can be found here: https://configure.ergodox-ez.com/layouts/qMW3/latest/0
+I currently type on an Kyria and it's great. My keymap I use on my Kyria can be found [here](https://github.com/waynehoover/qmk_firmware/blob/wayne-dvorkakiulm-bilateral-combinations/keyboards/kyria/keymaps/waynehoover/keymap.c).
 
 ## Credits
 The mac file was created with [Ukelele V3](https://scripts.sil.org/ukelele) and should work on all versions of MacOS. The PC files where created a long time ago and I don't know if they still work, PRs welcome.
