@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--&#x0022;DvorakIU Switch&#x0022; -->
-<!--Last edited by Ukelele version 3.4.2.314 on 2020-05-15 at 12:12 (HST)-->
+<!--Last edited by Ukelele version 340 on 2021-02-12 at 09:45 (MST)-->
 <keyboard group="126" id="-14879" name="DvorakIULM" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
@@ -314,7 +314,7 @@
             <key code="32" output="G"/>
             <key code="33" output="/"/>
             <key code="34" output="C"/>
-            <key code="35" output="L"/>
+            <key code="35" output="M"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" action="N"/>
             <key code="38" output="H"/>
@@ -325,7 +325,7 @@
             <key code="43" output="W"/>
             <key code="44" output="Z"/>
             <key code="45" output="B"/>
-            <key code="46" output="M"/>
+            <key code="46" output="L"/>
             <key code="47" output="V"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action=" "/>
