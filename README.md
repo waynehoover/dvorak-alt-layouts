@@ -2,7 +2,9 @@
 Two alternatative Dvorak keyboard layouts
 
 One with the IU keys swapped.
-The other with the IU and LM keys swapped.
+The other with the IU and LM keys swapped, see picture below:
+
+![dvorak IULM layout](https://p239.p2.n0.cdn.getcloudapp.com/items/RBu44dWG/e4450f04-e0da-4307-bda6-ef031b741f7f.png?v=c64a6c208d52cac3d90caee7081dc8c0)
 
 ## Installation
 Mac:
