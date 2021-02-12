@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--&#x0022;DvorakIU Switch&#x0022; -->
-<!--Last edited by Ukelele version 340 on 2021-02-12 at 09:45 (MST)-->
-<keyboard group="126" id="-14879" name="DvorakIULM" maxout="1">
+<!--Last edited by Ukelele version 340 on 2021-02-12 at 09:58 (MST)-->
+<keyboard group="126" id="-14921" name="DvorakIULM" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
     </layouts>
@@ -97,7 +97,7 @@
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
-            <!-- gap, 54 through 64 -->
+            <!--Dvorak IU and LM Switch&#x0022; -->
             <key code="64" output="&#x0010;"/>
             <key code="65" output="."/>
             <key code="66" output="&#x001D;"/>
