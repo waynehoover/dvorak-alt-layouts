@@ -28,11 +28,10 @@ It took me about a week and a half of using this new layout until I was up to my
 I have been using the DvorakIULM swap since 2018 and have been really enjoying it. The time it took to switch was about two weeks to get back to normal typing speed.
 
 ## Karabiner
-I have also included my karabiner config which you can install by all files in `karabiner` in this repo in `~/.config/karabiner` on your machine.
-The config swaps capslock with delete. The complex_modification config files make it so that when the option key is held the right hand home row becomes arrows and the left hand has some common punctuation. Details can be found for each rule when you install the file.
+You may also be interested in my [karbiner config](https://github.com/waynehoover/dotfiles/tree/master/symlinks/karabiner/.config). There I put all the key map changes that I can also use on my laptop keyboard, everything else that can not be ported to my laptop keyboard is in my qmk keymap.
 
-## ErgoDoxEZ layout
-I currently type on an Kyria and it's great. My keymap I use on my Kyria can be found [here](https://github.com/waynehoover/qmk_firmware/blob/wayne-dvorkakiulm-bilateral-combinations/keyboards/kyria/keymaps/waynehoover/keymap.c).
+## QMK keymap
+I currently use a Kyria as my keyboard and it's great. The keymap I use can be found [here](https://github.com/waynehoover/qmk_firmware/blob/wayne-dvorkakiulm-bilateral-combinations/keyboards/kyria/keymaps/waynehoover/keymap.c).
 
 ## Credits
 The mac file was created with [Ukelele V3](https://scripts.sil.org/ukelele) and should work on all versions of MacOS. The PC files where created a long time ago and I don't know if they still work, PRs welcome.
