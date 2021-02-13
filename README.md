@@ -1,10 +1,10 @@
 # Dvorak ALT Layouts
 Two alternative Dvorak keyboard layouts
 
-One with the IU keys swapped.
-The other with the IU and LM keys swapped, see picture below:
+One with just the IU keys swapped.
+The other with the IU, and LM swapped, with the bonus of swapped shift state for semicolon (;)
 
-![dvorak IULM layout](https://p239.p2.n0.cdn.getcloudapp.com/items/RBu44dWG/e4450f04-e0da-4307-bda6-ef031b741f7f.png?v=c64a6c208d52cac3d90caee7081dc8c0)
+![dvorak IULM layout](https://p239.p2.n0.cdn.getcloudapp.com/items/WnuBB7nd/6bffa2c9-6276-46c8-9591-d9d4e09f3aa7.jpg?v=0eb93d054674735078c216777d119a08)
 
 ## Installation
 Mac:
@@ -20,6 +20,8 @@ After [analyzing](http://patorjk.com/keyboard-layout-analyzer/) other keyboard l
 
 The same is also true for the 'L' and 'M' keys. L is used more frequently than M so it makes sense to put it in a position that does not strain the right pinky.
 
+Also in programming : is used for more often than ; so I have swapped that keys shift state. That is : on press and ; on shift press.
+
 ## Personal experience
 I have been using the DvorakIU swap keyboard layout since 2009.
 
@@ -34,4 +36,4 @@ You may also be interested in my [karbiner config](https://github.com/waynehoove
 I currently use a Kyria as my keyboard and it's great. The keymap I use can be found [here](https://github.com/waynehoover/qmk_firmware/blob/wayne-dvorkakiulm-bilateral-combinations/keyboards/kyria/keymaps/waynehoover/keymap.c).
 
 ## Credits
-The mac file was created with [Ukelele V3](https://scripts.sil.org/ukelele) and should work on all versions of MacOS. The PC files where created a long time ago and I don't know if they still work, PRs welcome.
+The mac .keylayout file was created with [Ukelele V3](https://scripts.sil.org/ukelele) and should work on all versions of MacOS.

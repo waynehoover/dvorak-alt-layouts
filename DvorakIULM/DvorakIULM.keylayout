@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--&#x0022;DvorakIU Switch&#x0022; -->
-<!--Last edited by Ukelele version 340 on 2021-02-12 at 09:58 (MST)-->
-<keyboard group="126" id="-14921" name="DvorakIULM" maxout="1">
+<!--Last edited by Ukelele version 340 on 2021-02-13 at 08:58 (MST)-->
+<keyboard group="126" id="-23658" name="DvorakIULM" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
     </layouts>
@@ -49,7 +49,7 @@
             <key code="3" action="i"/>
             <key code="4" output="d"/>
             <key code="5" action="u"/>
-            <key code="6" output=";"/>
+            <key code="6" output=":"/>
             <key code="7" output="q"/>
             <key code="8" output="j"/>
             <key code="9" output="k"/>
@@ -167,7 +167,7 @@
             <key code="3" action="I"/>
             <key code="4" output="D"/>
             <key code="5" action="U"/>
-            <key code="6" output=":"/>
+            <key code="6" output=";"/>
             <key code="7" output="Q"/>
             <key code="8" output="J"/>
             <key code="9" output="K"/>
@@ -285,7 +285,7 @@
             <key code="3" action="I"/>
             <key code="4" output="D"/>
             <key code="5" action="U"/>
-            <key code="6" output=";"/>
+            <key code="6" output=":"/>
             <key code="7" output="Q"/>
             <key code="8" output="J"/>
             <key code="9" output="K"/>
